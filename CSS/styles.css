@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    font-size: 55px;
+    font-weight: bold;
+}
+p {
+    color: green;
+}
+.my-paragraphs {
+    text-align: center;
+}
+#my-third-paragraph {
+    color: purple;
+    background-color: orange;
+}
